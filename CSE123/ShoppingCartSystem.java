@@ -97,6 +97,7 @@ public class ShoppingCartSystem {
             sc.nextLine();
 
             switch (choice) {
+                // Changes 
                 case 1:
                     System.out.println("Select Category:");
                     System.out.println("1. Electronics");
